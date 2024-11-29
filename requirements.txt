@@ -1,0 +1,7 @@
+ollama==0.1.6
+chromadb==0.4.22
+python-dotenv==1.0.0
+sentence-transformers==2.2.2
+requests>=2.31.0
+numpy<2.0.0  # Add specific numpy version to avoid compatibility issues
+huggingface-hub==0.19.4  # Adding specific version to fix compatibility
